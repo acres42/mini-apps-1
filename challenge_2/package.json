@@ -1,0 +1,16 @@
+{
+  "name": "challenge_2",
+  "version": "1.0.0",
+  "description": "challenge 2",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "AC Roselee",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jquery": "^3.3.1"
+  }
+}
